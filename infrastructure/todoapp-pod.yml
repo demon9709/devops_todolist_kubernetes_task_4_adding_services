@@ -4,7 +4,7 @@ metadata:
   name: todoappmodify
   namespace: todoapp
   labels:
-    app: firsttask
+    app: todolist
 spec:
   containers:
   - name: todoapp
